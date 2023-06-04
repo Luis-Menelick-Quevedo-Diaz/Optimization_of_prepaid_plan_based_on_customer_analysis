@@ -1,0 +1,2 @@
+# Optimization_of_prepaid_plan_based_on_customer_analysis
+Realizaremos un análisis para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos planes tarifarios de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes aporta más ingresos para ajustar el presupuesto de publicidad. Estudiaremos los datos para analizar el comportamiento de los clientes
